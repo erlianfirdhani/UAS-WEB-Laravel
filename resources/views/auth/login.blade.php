@@ -31,7 +31,7 @@
             </div>
 
             <button class="w-100 btn btn-lg btn-primary" type="submit" id="login-form-button">Masuk</button>
-            <p class="mt-5 mb-3 text-muted">&copy; Erlian Fir Dhani 2023 </p>
+            <p class="mt-5 mb-3 text-muted">&copy;App Absensi by Erlian Fir Dhani</p>
 
         </form>
     </main>
